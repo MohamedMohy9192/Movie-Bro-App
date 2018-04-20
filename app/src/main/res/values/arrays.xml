@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pref_sort_order_option_labels">
+        <item>@string/pref_sort_order_label_popular</item>
+        <item>@string/pref_sort_order_label_top_rated</item>
+        <item>@string/pref_sort_order_label_favorite</item>
+    </array>
+
+    <array name="pref_sort_order_option_values">
+        <item>@string/pref_sort_order_popular_value</item>
+        <item>@string/pref_sort_order_top_rated_value</item>
+        <item>@string/pref_sort_order_favorite_value</item>
+    </array>
+</resources>

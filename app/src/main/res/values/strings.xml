@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Movie Bro</string>
+
+    <string name="settings_activity_label">Settings</string>
+
+    <!--Error message that you will show the user if there is an error loading content-->
+    <string name="error_message"> An error has occurred. Please try again</string>
+
+    <!--Setting menu item label-->
+    <string name="action_settings">Settings</string>
+
+    <!--Label for sort order list preference-->
+    <string name="pref_sort_order_label">Sort order</string>
+
+    <!--Label for popular list preference option-->
+    <string name="pref_sort_order_label_popular">Popular</string>
+    <!--Label for top rated list preference option-->
+    <string name="pref_sort_order_label_top_rated">Top rated</string>
+
+    <string name="pref_sort_order_label_favorite">Favorite</string>
+
+    <!--Key name for sort order preference in SharedPreferences file-->
+    <string name="pref_sort_order_key" translatable="false">sort_order</string>
+
+    <!--Value in SharedPreferences file for popular sort order option-->
+    <string name="pref_sort_order_popular_value" translatable="false">popular</string>
+    <!--Value in SharedPreferences file for top rated sort order option -->
+    <string name="pref_sort_order_top_rated_value" translatable="false">top_rated</string>
+
+    <string name="pref_sort_order_favorite_value" translatable="false">favorite</string>
+
+    <string name="detail_activity_label">Movie Details</string>
+    <string name="videos_title">Videos</string>
+    <string name="reviews_title">Reviews</string>
+    <string name="movie_added">Movie has added to favorites</string>
+    <string name="movie_already_added">The movie is already added to the favorites</string>
+
+
+</resources>

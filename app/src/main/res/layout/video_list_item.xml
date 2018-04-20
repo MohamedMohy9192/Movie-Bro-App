@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="200dp"
+    android:layout_height="160dp"
+    android:foreground="?android:attr/selectableItemBackground"
+    android:layout_marginRight="8dp"
+    android:layout_marginEnd="8dp">
+
+    <com.google.android.youtube.player.YouTubeThumbnailView
+        android:id="@+id/you_tube_thumbnail_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:background="@drawable/video_place_holder"/>
+
+</FrameLayout>
