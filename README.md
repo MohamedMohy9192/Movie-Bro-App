@@ -13,4 +13,4 @@
 
 ## Screenshots
 
-![screenshot1](screenshot1.png) ![screenshot1](screenshot2.png) ![screenshot1](screenshot3.png) ![screenshot1](screenshot4.png)  
+![screenshot1](screenshots/screenshot1.png) ![screenshot1](screenshots/screenshot2.png) ![screenshot1](screenshots/screenshot3.png) ![screenshot1](screenshots/screenshot4.png)  
